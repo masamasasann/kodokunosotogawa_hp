@@ -159,6 +159,13 @@ text-align: center;
 .content1_title{
   width: 100%;
 }
+
+.katudou{
+  color: red;
+  font-size: 35px;
+  font-weight: bold;
+}
+
 h1{
   display:inline-block;
   margin-top: 20px;
